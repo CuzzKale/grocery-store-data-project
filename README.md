@@ -40,7 +40,7 @@ ORDER BY SUM(s.total_sales) DESC LIMIT 10;
 ## Skills Demonstrated
 
 - **SQL:** JOINs, CASE, GROUP BY, and aggregates
-- **Database:** creation, altering, and table analysis
+- **Database:** cleaned, created, and altered data
 - **Excel:** conditional formatting, filtering, creating charts, and formulas
 
 ## Software/Technology Used
