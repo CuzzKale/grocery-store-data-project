@@ -46,6 +46,6 @@ ORDER BY SUM(s.total_sales) DESC LIMIT 10;
 ## Software/Technology Used
 
 - SQL(SQLite)
-- DB Browser for SQLlite
+- DB Browser for SQLite
 - Excel
 
