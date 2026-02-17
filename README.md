@@ -12,6 +12,9 @@ After this the tables were exported to Excel where I created charts and graphs t
 - Which Month had the highest sales?
 - Which Day had the highest sales?
 - What percentage of items sold include discounts?
+
+## Database Used
+https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset
   
 ## Project Structure
 
