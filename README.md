@@ -5,6 +5,14 @@ By using SQL to clean, change, and output tables from the database
 I was able to get the accurate and required data samples to answer the questions.
 After this the tables were exported to Excel where I created charts and graphs to visualize the data.
 
+## Business Questions
+
+- Which product category generates the highest total sales across all countries over the months?
+- Which 10 United States cities had the highest sales?
+- Which Month had the highest sales?
+- Which Day had the highest sales?
+- What percentage of items sold include discounts?
+  
 ## Project Structure
 
 - queries/ -> written SQL code (queries & schema)
