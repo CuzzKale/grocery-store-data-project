@@ -43,3 +43,9 @@ ORDER BY SUM(s.total_sales) DESC LIMIT 10;
 - **Database:** creation, altering, and table analysis
 - **Excel:** conditional formatting, filtering, creating charts, and formulas
 
+## Software/Technology Used
+
+- SQL(SQLite)
+- DB Browser for SQLlite
+- Excel
+
