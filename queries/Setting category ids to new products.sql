@@ -1,0 +1,17 @@
+UPDATE new_Products SET CategoryID = 1 WHERE Category = 'Alcholic Drinks';
+UPDATE new_Products SET CategoryID = 2 WHERE Category = 'Bakery';
+UPDATE new_Products SET CategoryID = 3 WHERE Category = 'Baking Products';
+UPDATE new_Products SET CategoryID = 4 WHERE Category = 'Chocolates';
+UPDATE new_Products SET CategoryID = 5 WHERE Category = 'Dairy';
+UPDATE new_Products SET CategoryID = 6 WHERE Category = 'Fruit';
+UPDATE new_Products SET CategoryID = 7 WHERE Category = 'Meat';
+UPDATE new_Products SET CategoryID = 8 WHERE Category = 'Miscellaneous';
+UPDATE new_Products SET CategoryID = 9 WHERE Category = 'Non-Alcholic Drinks';
+UPDATE new_Products SET CategoryID = 10 WHERE Category = 'Nuts & Seeds';
+UPDATE new_Products SET CategoryID = 11 WHERE Category = 'Oils';
+UPDATE new_Products SET CategoryID = 12 WHERE Category = 'Pantry Goods';
+UPDATE new_Products SET CategoryID = 13 WHERE Category = 'Poultry';
+UPDATE new_Products SET CategoryID = 14 WHERE Category = 'SeaFood';
+UPDATE new_Products SET CategoryID = 15 WHERE Category = 'Seasonings & Spices';
+UPDATE new_Products SET CategoryID = 16 WHERE Category = 'Sweets & Confections';
+UPDATE new_Products SET CategoryID = 17 WHERE Category = 'Vegetables';

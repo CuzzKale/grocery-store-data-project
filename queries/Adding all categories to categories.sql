@@ -1,0 +1,17 @@
+INSERT INTO categories (CategoryID, CategoryName) VALUES (1, 'Alcholic Drinks');
+INSERT INTO categories (CategoryID, CategoryName) VALUES (2, 'Bakery');
+INSERT INTO categories (CategoryID, CategoryName) VALUES (3, 'Baking Products');
+INSERT INTO categories (CategoryID, CategoryName) VALUES (4, 'Chocolates');
+INSERT INTO categories (CategoryID, CategoryName) VALUES (5, 'Dairy');
+INSERT INTO categories (CategoryID, CategoryName) VALUES (6, 'Fruit');
+INSERT INTO categories (CategoryID, CategoryName) VALUES (7, 'Meat');
+INSERT INTO categories (CategoryID, CategoryName) VALUES (8, 'Miscellaneous');
+INSERT INTO categories (CategoryID, CategoryName) VALUES (9, 'Non-Alcholic Drinks');
+INSERT INTO categories (CategoryID, CategoryName) VALUES (10, 'Nuts & Seeds');
+INSERT INTO categories (CategoryID, CategoryName) VALUES (11, 'Oils');
+INSERT INTO categories (CategoryID, CategoryName) VALUES (12, 'Pantry Goods');
+INSERT INTO categories (CategoryID, CategoryName) VALUES (13, 'Poultry');
+INSERT INTO categories (CategoryID, CategoryName) VALUES (14, 'SeaFood');
+INSERT INTO categories (CategoryID, CategoryName) VALUES (15, 'Seasonings & Spices');
+INSERT INTO categories (CategoryID, CategoryName) VALUES (16, 'Sweets & Confections');
+INSERT INTO categories (CategoryID, CategoryName) VALUES (17, 'Vegetables');

@@ -1,0 +1,1 @@
+UPDATE countries SET CountryCode = upper(substr(CountryName, 1, 2));
